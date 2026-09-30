@@ -1,0 +1,14 @@
+{
+    "expo": {
+        "name": "Healthy Meals",
+        "slug": "healthy-meals",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "userInterfaceStyle": "light",
+        "scheme": "healthymeals",
+        "web": {
+            "bundler": "metro",
+            "output": "single"
+        }
+    }
+}
